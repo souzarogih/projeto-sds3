@@ -1,7 +1,0 @@
-function teste {
-
-}
-
-function script {
-
-}
